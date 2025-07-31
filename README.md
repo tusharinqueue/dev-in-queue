@@ -14,19 +14,30 @@ A daily (or almost-daily) journal of:
 Whether it's Python, C++, Git, DSA, AiMl or side projects — everything goes in here.
 
 ## 📅 How It’s Structured
+```text
+📁 dev-in-queue/
+├── day_x/
+│   ├── notes.md
+│   ├── script.py / main.cpp / index.html
+│   ├── project.ipynb / sketch.js
+│   └── ...
+├── day_y/
+│   ├── notes.md
+│   ├── another_script.py / tool.c / test.html
+│   └── helper_data.json / result.txt
+└── README.md
+```
 
-📁 dev-in-queue/  
-├── day_x
-├── day_y
-├── ...  
-└── README.md  
 
-Each file contains:
-- Code 
-- Topics covered
-- Tools Used
-- Reflections  
-- Resources used  
+Each day folder contains:
+
+- 🧠 `notes.md`  
+  - Topics covered  
+  - Reflections  
+  - Resources used  
+
+- 💻 Code files  
+  - Anything from timepass to serious — dev doodles included
 
 ## 🚧 Why I’m Doing This
 
