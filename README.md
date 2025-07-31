@@ -16,14 +16,15 @@ Whether it's Python, C++, Git, DSA, AiMl or side projects — everything goes in
 ## 📅 How It’s Structured
 
 📁 dev-in-queue/  
-├── Day01.md  
-├── Day02.md  
+├── day_x
+├── day_y
 ├── ...  
 └── README.md  
 
 Each file contains:
-- Topics covered  
-- Code snippets  
+- Code 
+- Topics covered
+- Tools Used
 - Reflections  
 - Resources used  
 
@@ -43,5 +44,4 @@ I’m documenting this for:
 
 ---
 
-> “Queued_ is not just a brand — it’s the mindset of learning, building, and sharing, one commit at a time.”
 
