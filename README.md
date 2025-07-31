@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tusharinqueue/dev-in-queue/HEAD)
 # 🧠 dev-in-queue
 
 Welcome to **dev-in-queue** — a raw, honest log of my journey from beginner to developer.
