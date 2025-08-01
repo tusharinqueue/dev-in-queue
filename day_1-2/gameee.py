@@ -1,6 +1,9 @@
 import random
 import time
 
+#this is a totally ai generated code that i generated for testing
+#just a fun little experiment
+
 
 def welcome_message():
     """Displays a welcoming message with an Indian touch."""
