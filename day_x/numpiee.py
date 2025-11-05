@@ -66,3 +66,22 @@ print("DType ", arr2.dtype) #data type in arrays
 #NOTE-- numpy is most efficient in only one datatype array
 #if its mixed of two dta types it will not be that efficient as its not build that way
 
+#------------------------------------------------------------
+#Array Reshaping
+
+arri = np.arange(12)
+print("Original array ", arri)
+
+reshaped = arri.reshape((3, 4))
+print("\n Reshaped array ", reshaped)
+
+flattened = reshaped.flatten()
+print("\n Flattened array ", flattened)
+
+# ravel (returns view, instead of copy)
+raveled = reshaped.ravel()
+print("\n raveled array ", raveled)
+
+# Transpose
+transpose = reshaped.T
+print("\n Transposed array ", transpose)
