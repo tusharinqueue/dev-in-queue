@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dev-in-queue.iml" filepath="$PROJECT_DIR$/.idea/dev-in-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dev-in-queue2.iml" filepath="$PROJECT_DIR$/.idea/dev-in-queue2.iml" />
     </modules>
   </component>
 </project>
